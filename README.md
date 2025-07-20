@@ -17,6 +17,8 @@ https://github.com/user-attachments/assets/9a3d33e2-4027-4aba-824a-898274dce653
 
 https://dadi-tube-saumyagurnanis-projects.vercel.app/
 
+---
+
 ## Problem Statement
 
 Traditional video platforms are not always senior-friendly. Small hidden icons, English-only prompts, and a dependency on typing often create barriers. **DadiTube** addresses this by offering:
@@ -33,7 +35,7 @@ Traditional video platforms are not always senior-friendly. Small hidden icons, 
 
 -  **Human-Centered Design:** Crafted with elders in mind, prioritizing accessibility and ease of use
 -  **Voice Search in Hindi:** Powered by the Web Speech API with Hindi support
-- 🖱️**Optional Text Search:** Allows use by a broader audience
+-  **Optional Text Search:** Allows use by a broader audience
 -  **Real-Time YouTube Integration:** Uses YouTube Data API v3 to fetch results dynamically
 -  **Single-Screen Simplicity:** No page reloads, no confusion, just say what you want to watch
 
